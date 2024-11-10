@@ -100,7 +100,7 @@ const Footer = () => {
               { path: "/watchlist", label: "Watchlist" },
               { path: "/dashboard", label: "Dashboard" },
 
-              { path: "/blog", label: "Blog" },
+              { path: "/blog", label: "Blogs" },
 
               { path: "/earn", label: "Earn" },
               { path: "/ultimate-crypto-portfolio-tracker", label: "Ultimate Crypto Portfolio Tracker" },
